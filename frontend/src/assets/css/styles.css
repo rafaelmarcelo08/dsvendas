@@ -37,6 +37,7 @@ body {
     font-weight: bolder;
     background-color: var(--color-primary);
 }
+
 .btn .btn-acessar {
     color: #FFF;
     text-decoration: none;
