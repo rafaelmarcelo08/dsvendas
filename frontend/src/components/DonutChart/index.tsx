@@ -24,9 +24,7 @@ const DonutChart = () => {
                     series: mySeries
                 });
             })
-    }, [])
-
-
+    }, []);
 
     const options = {
         legend: {
